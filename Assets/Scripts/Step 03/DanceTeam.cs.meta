@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b694712746e2ebe44b6a45640c3805b6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fightWinContainer: {instanceID: 0}
+  - troupeNameText: {instanceID: 0}
+  - nameGenerator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
